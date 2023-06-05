@@ -14,4 +14,4 @@ for (let i = 0; i<3; i++) {
 	personalMovieDb.movies[a] = b;
 }
 
-console.log(personalMovieDb);
+/* console.log(personalMovieDb); */
